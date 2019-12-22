@@ -12,13 +12,13 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Tyler King",
-            "email": "tyler@ohmybrew.com"
+            "name": "Prem Chand",
+            "email": "prem.techchef@razorpay.com"
         }
     ],
     "require": {
         "php": ">=7.1.0",
-        "razorpay/laravel-shopify": "^10.2.2@dev",
+        "razorpay/laravel-shopify": "^10.2.2@   dev",
         "laravel/framework": "5.5.*",
         "ohmybrew/basic-shopify-api": "^6.0",
         "doctrine/dbal": "~2.5"
